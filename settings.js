@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['18075001036,919544685703']
+global.owner = ['94725083941,919544685703']
 global.premium = ['18075001036,919544685703']
 global.ownernomer = '18075001036,919544685703'
-global.ownername = '𝑩𝑺𝑳'
-global.botname = '𝑩𝑺𝑳 𝑺𝑬𝑹 𝑩𝑶𝑻'
-global.footer = '©ʙꜱʟᴍᴏᴅꜱ'
+global.ownername = 'YURESH'
+global.botname = 'YURESH BOT'
+global.footer = '©ᴜʀᴇꜱʜ'
 global.ig = '🌝thekot noki irunal mathi'
 global.region = 'India, South India, Kerala'
 global.sc = '🌝thekot noki irunal mathi'
@@ -32,7 +32,7 @@ global.myweb = 'https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng'
 global.packname = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.author = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!'🔞'🍁'❤️'🚫','⛔','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
